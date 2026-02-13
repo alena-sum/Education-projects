@@ -1,0 +1,178 @@
+.prof {
+  padding: 40px;
+  padding-top: 230px;
+}
+
+.prof-head {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.prof-head h1 {
+  font-family: "Cormorant", serif;
+  font-size: 50px;
+  font-weight: 400;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.prof-main {
+  display: flex;
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.prof-card {
+  flex: 1;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.prof-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.prof-card h2 {
+  font-family: "Cormorant", serif;
+  font-size: 28px;
+  color: #000000;
+  font-weight: 500;
+}
+
+.prof-edit {
+  padding: 8px 20px;
+  background: #725f5f;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.prof-edit:hover {
+  background: #574848;
+}
+
+.prof-btns {
+  display: flex;
+  gap: 10px;
+}
+
+.prof-save, .prof-cancel {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.prof-save {
+  background: #725f5f;
+  color: #ffffff;
+}
+
+.prof-save:hover {
+  background: #574848;
+}
+
+.prof-cancel {
+  background: #f5f5f5;
+  color: #333333;
+}
+
+.prof-cancel:hover {
+  background: #e0e0e0;
+}
+
+.prof-info {
+  margin-bottom: 30px;
+}
+
+.prof-field {
+  margin-bottom: 20px;
+}
+
+.prof-field label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 16px;
+  color: #333333;
+  font-weight: 500;
+}
+
+.prof-field p {
+  font-size: 16px;
+  color: #000;
+  padding: 10px 0;
+}
+
+.prof-field input,
+.prof-field textarea {
+  width: 100%;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.prof-field textarea {
+  height: 80px;
+  resize: vertical;
+}
+
+.prof-logout {
+  width: 100%;
+  padding: 12px;
+  background: #f5f5f5;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.prof-logout:hover {
+  background: #e0e0e0;
+}
+
+.prof-no {
+  text-align: center;
+  color: #666666;
+  font-size: 18px;
+  padding: 40px 0;
+}
+
+.prof-orders {
+  margin-bottom: 30px;
+}
+
+.prof-order {
+  padding: 20px;
+  border: 1px solid #eeeeee;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+.prof-shop {
+  display: block;
+  text-align: center;
+  padding: 12px;
+  background: #725f5f;
+  color: #ffffff;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.prof-shop:hover {
+  background: #574848;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/create_schema.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/eighth.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/fifth.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/filling.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/first.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/fourth.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/ninth.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/second.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/seventh.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sixth.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/tenth.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/third.sql" dialect="PostgreSQL" />
+  </component>
+</project>
